@@ -23,7 +23,7 @@ iPAPK is an iOS SwiftUI application that allows users to change the extension of
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/ipapk.git
+    git clone https://github.com/speedyfriend433/ipapk.git
     cd ipapk
     ```
 
